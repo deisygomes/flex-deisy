@@ -9,7 +9,6 @@
 .cabecalho{
     display: flex;
     justify-content: space-between;
-    width: 800px;
 }
 .karana{
     background-image: url(../img/unsplash_QQ9LainS6tI\ \(3\).png);
