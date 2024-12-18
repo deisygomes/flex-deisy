@@ -1,6 +1,5 @@
 .group-cards{
     display: flex;
-    gap: 13px;
 }
 .cinza h3{
     color: #5F5F5F;
